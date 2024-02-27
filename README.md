@@ -61,7 +61,7 @@ print("RMSE : ",np.sqrt(mse))
 <td width=45%>
 
 **df.head()** <br>
-![m11](https://github.com/deepikasrinivasans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393935/d8f284a1-ef94-4b77-ba1e-c2199280bf60)
+![m11](https://github.com/deepikasrinivasans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393935/d8f284a1-ef94-4b77-ba1e-c2199280bf60)<br>
 **df.tail** <br>
 ![m112](https://github.com/deepikasrinivasans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393935/4d64cf01-67c6-45a2-8a0f-46846e69be3b)
 </td>
@@ -71,7 +71,7 @@ print("RMSE : ",np.sqrt(mse))
 ![m113](https://github.com/deepikasrinivasans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393935/35c5d4ff-084b-44ed-a0c4-da4d6d8c3b26)
 </td>
 </tr>
-</td>table>
+</table>
 <br>
 <br>
 
